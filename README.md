@@ -61,8 +61,7 @@ object-oriented programming course project
 
 author
 
-student project
-
+Md Riad Hossain
 this is the structure how you will run the code
 src
 │
